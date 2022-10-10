@@ -1,0 +1,32 @@
+{
+    "autisticMode": false,
+    "spamDuck": "",
+    "ignoredPackets": ["window_items", "set_slot", "open_window", "entity_velocity", "rel_entity_move", "entity_teleport", "entity_move_look", "playerlist_header", "world_particles", "entity_head_rotation", "block_change", "map", "sound_effect", "entity_look"],
+    "discord": {
+        "token": "DISCORD-TOKEN",
+        "client": "DISCORD-CLIENT-ID",
+        "guild": "GUILD-ID",
+        "channels": ["CHANNEL-ID"],
+        "tracking": "TRACKING-CHANNEL-ID"
+    },
+    "access": {
+        "MINECRAFT-UUID": 3,
+        "DISCORD-ID": 3
+    },
+    "server": {
+        "ip": "horizonanarchy.net",
+        "version": "1.18.2"
+    },
+    "account": {
+        "email": "",
+        "password": ""
+    },
+    "pearlAcc":  {
+        "email": "",
+        "password": ""
+    },
+    "antiSpam": {
+        "frequency": 3,
+        "backlog": 10
+    }
+}

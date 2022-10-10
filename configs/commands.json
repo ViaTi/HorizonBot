@@ -1,0 +1,37 @@
+{
+    "players": {
+        "access": 0,
+        "deny": false,
+        "file": "players"
+    },
+    "best girl": {
+        "access": 0,
+        "deny": false,
+        "file": "bestGirl"
+    },
+    "relog": {
+        "access": 3,
+        "deny": false,
+        "file": "relog"
+    },
+    "reload": {
+        "access": 3,
+        "deny": false,
+        "file": "bestGirl"
+    },
+    "hunger": {
+        "access": 3,
+        "deny": false,
+        "file": "hunger"
+    },
+    "knock knock": {
+        "access": 0,
+        "deny": false,
+        "file": "pearl"
+    },
+    "tracker": {
+        "access": 3,
+        "deny": false,
+        "file": "tracker"
+    }
+}

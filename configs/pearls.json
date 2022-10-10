@@ -1,0 +1,6 @@
+{
+    "UUID": {
+        "button": [0, 64, 0],
+        "greeting": "/w <NAME> Doors open, make sure to close it."
+    }
+}

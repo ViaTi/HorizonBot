@@ -1,0 +1,21 @@
+{
+  "name": "horizonbot",
+  "version": "1.0.0",
+  "description": "A bot written with mineflayer",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "ViaTi/Vali",
+  "license": "ISC",
+  "dependencies": {
+    "@discordjs/rest": "^1.0.1",
+    "discord.js": "^14.1.2",
+    "mineflayer": "^4.3.0",
+    "mineflayer-auto-eat": "^2.3.3",
+    "mineflayer-pathfinder": "^2.3.2",
+    "mineflayer-web-inventory": "^1.8.3",
+    "nodemon": "^2.0.19",
+    "winston": "^3.8.1"
+  }
+}
