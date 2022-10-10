@@ -1,2 +1,2 @@
 # HorizonBot
-A bot made for the horizon anarchy server
+A bot made for the horizon anarchy minecraft server
